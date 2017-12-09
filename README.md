@@ -17,7 +17,10 @@ These are the following features that are implemented in our bookstore
   * Usefulness Ratings
   * Browsing 
   * Recommendations
-  * Stastics 
+  * Statistics
 
+# Entiry Relationship Diagram
+
+# Authors
 
 
